@@ -1,0 +1,15 @@
+.nav li {
+	font-size: 1em;
+	list-style-type: none;
+	display: inline-block;
+	border: 2px solid tomato;
+}
+
+.nav li:hover {
+	background: green;
+}
+
+.nav li:active {
+	padding-left: 5px; 
+	padding-right: 5px;
+}
